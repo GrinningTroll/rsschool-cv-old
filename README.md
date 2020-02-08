@@ -3,3 +3,5 @@
 - I am thirty and I am married, I have a little daughter and I want her to be happy and healthy, this is the most important thing for me.
 - I know a little html, css and js.
 - I have a little work experience so far.
+- I finished front end development courses and read some tutorials on this topic.
+- I studied English at school, but since then I periodically read books in English so as not to lose knowledge and develop it a little.
