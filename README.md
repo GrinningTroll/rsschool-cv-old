@@ -1,3 +1,5 @@
 - Kanstantsin Matskevich
 - my phone number +375(25)786-83-99(mts)
 - I am thirty and I am married, I have a little daughter and I want her to be happy and healthy, this is the most important thing for me.
+- I know a little html, css and js.
+- I have a little work experience so far.
